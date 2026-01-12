@@ -1,2 +1,1 @@
-# communication-
-DOA in CS
+This is a project for firstly starting github.
